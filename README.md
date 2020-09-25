@@ -5,8 +5,3 @@ The link the to video is [here](https://www.youtube.com/watch?v=ZKXv_ZHQ654&t=61
 
 
 I really liked working on this and I plan on implementing this feature on my personal portfolio soon.
-
-
-##### Here is a demo of the working toggle:
-
-![Working Toggle](https://media.giphy.com/media/1Bhk4lc3A89t2nMz9g/giphy.gif)
